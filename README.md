@@ -1,3 +1,5 @@
+## Arnav Mehta
+
 # Gmail to Google Sheets Automation
 
 ## 1. High-Level Architecture Diagram
@@ -82,5 +84,6 @@ The OAuth token was generated earlier with Gmail-only permissions and did not in
 - Batch processing limit per run
 
 ![architecture flow](https://github.com/user-attachments/assets/9d2ea1cd-60ba-43d9-a0da-32be8ff2a638)
+
 
 
